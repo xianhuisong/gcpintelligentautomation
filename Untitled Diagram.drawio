@@ -1,4 +1,4 @@
-<mxfile modified="2021-10-22T06:29:06.165Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="Sy8VxV6srt9ZAoR8oLbD" version="15.5.1" type="github">
+<mxfile modified="2021-10-22T06:31:34.059Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="IK9HvBbgWzYBh4m07lSO" version="15.5.1" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="1038" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -83,14 +83,14 @@
         <mxCell id="PlTXi9dPVwTUDiqTKwLx-1101" value="&lt;font color=&quot;#ffffff&quot;&gt;7&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;fontColor=#007FFF;fillColor=#9E1FFF;strokeColor=none;" vertex="1" parent="PlTXi9dPVwTUDiqTKwLx-1021">
           <mxGeometry x="290" y="265" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="PlTXi9dPVwTUDiqTKwLx-1060" value="" style="whiteSpace=wrap;html=1;fillColor=#FFEBFA;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="PlTXi9dPVwTUDiqTKwLx-1060" value="" style="whiteSpace=wrap;html=1;fillColor=#FBFDF2;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="120" y="60" width="210" height="410" as="geometry" />
         </mxCell>
         <mxCell id="PlTXi9dPVwTUDiqTKwLx-1062" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_DevOps.svg;fontColor=#000000;fillColor=#FFEBFA;" vertex="1" parent="1">
           <mxGeometry x="150" y="70" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="PlTXi9dPVwTUDiqTKwLx-1063" value="&lt;font face=&quot;helvetica&quot; style=&quot;font-size: 12px&quot; color=&quot;#007fff&quot;&gt;&lt;b&gt;Azure &lt;/b&gt;DevOps&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="180" y="65" width="140" height="30" as="geometry" />
+        <mxCell id="PlTXi9dPVwTUDiqTKwLx-1063" value="&lt;b style=&quot;color: rgb(113 , 113 , 113) ; font-size: 14px&quot;&gt;Azure&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;color: rgb(113 , 113 , 113) ; font-size: 14px&quot;&gt;DevOps&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="170" y="65" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PlTXi9dPVwTUDiqTKwLx-1085" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#FFFFFF;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="PlTXi9dPVwTUDiqTKwLx-1064" target="PlTXi9dPVwTUDiqTKwLx-1082">
           <mxGeometry relative="1" as="geometry" />
