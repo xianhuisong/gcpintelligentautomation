@@ -1,4 +1,4 @@
-<mxfile modified="2021-10-22T06:00:40.692Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="HhaVj4tivajNILqOb7WG" version="15.5.1" type="github">
+<mxfile modified="2021-10-22T06:02:02.481Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="6Y4y0plkrS0fD9Ec--Vg" version="15.5.1" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -32,6 +32,14 @@
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="100" y="170" as="sourcePoint" />
             <mxPoint x="200" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PlTXi9dPVwTUDiqTKwLx-1014" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontColor=#000000;" vertex="1" parent="14">
+          <mxGeometry x="330" y="344" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PlTXi9dPVwTUDiqTKwLx-1015" value="&lt;font color=&quot;#000000&quot;&gt;Data Lake&lt;br&gt;&lt;/font&gt;&lt;hr&gt;BigQuery" style="sketch=0;dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=bigquery;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="PlTXi9dPVwTUDiqTKwLx-1014">
+          <mxGeometry y="0.5" width="44" height="39" relative="1" as="geometry">
+            <mxPoint x="5" y="-19.5" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
