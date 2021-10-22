@@ -1,4 +1,4 @@
-<mxfile modified="2021-10-22T06:11:09.716Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="9SLMLmFMroTLtLxuaofi" version="15.5.1" type="github">
+<mxfile modified="2021-10-22T06:11:15.012Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="Pl-J5vcqB4m4Xym5FKLD" version="15.5.1" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="1038" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -64,9 +64,6 @@
         </mxCell>
         <mxCell id="PlTXi9dPVwTUDiqTKwLx-1060" value="" style="whiteSpace=wrap;html=1;fillColor=#FFEBFA;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="130" y="60" width="200" height="410" as="geometry" />
-        </mxCell>
-        <mxCell id="PlTXi9dPVwTUDiqTKwLx-1061" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_DevOps.svg;fontColor=#000000;fillColor=#FFEBFA;" vertex="1" parent="1">
-          <mxGeometry x="480" y="300" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PlTXi9dPVwTUDiqTKwLx-1062" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_DevOps.svg;fontColor=#000000;fillColor=#FFEBFA;" vertex="1" parent="1">
           <mxGeometry x="150" y="70" width="30" height="30" as="geometry" />
