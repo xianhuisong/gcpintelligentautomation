@@ -1,4 +1,4 @@
-<mxfile modified="2021-10-25T07:06:03.524Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="Le_oykrWu2wE2bPhBIrZ" version="15.5.8" type="github">
+<mxfile modified="2021-10-25T08:45:53.952Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="Dh_7xSbrUCjA_YaGYpjS" version="15.5.8" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -32,11 +32,6 @@
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="73.84615384615384" y="151.52173913043478" as="sourcePoint" />
             <mxPoint x="147.69230769230768" y="151.52173913043478" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="lQKMeBecdqRDSWAY5cYK-14" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="PlTXi9dPVwTUDiqTKwLx-1027">
-          <mxGeometry x="-0.2794" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PlTXi9dPVwTUDiqTKwLx-1028" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontColor=#000000;" parent="PlTXi9dPVwTUDiqTKwLx-1021" vertex="1">
@@ -88,16 +83,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="lQKMeBecdqRDSWAY5cYK-15" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="PlTXi9dPVwTUDiqTKwLx-1106">
-          <mxGeometry x="-0.8279" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="PlTXi9dPVwTUDiqTKwLx-1108" value="&lt;p style=&quot;line-height: 0.8&quot;&gt;&lt;font style=&quot;font-size: 11px&quot; face=&quot;Courier New&quot;&gt;load file from GCS to BQ&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 11px&quot; face=&quot;Courier New&quot;&gt;run query&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 11px&quot; face=&quot;Courier New&quot;&gt;export data from BQ to GCS&lt;/font&gt;&lt;/p&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontFamily=Georgia;fontSize=11;fontColor=#000000;" parent="PlTXi9dPVwTUDiqTKwLx-1021" vertex="1">
           <mxGeometry x="266.23" y="285" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PlTXi9dPVwTUDiqTKwLx-1060" value="" style="whiteSpace=wrap;html=1;fillColor=#E1F6FE;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="70" y="60" width="260" height="310" as="geometry" />
+          <mxGeometry x="70" y="60" width="270" height="310" as="geometry" />
         </mxCell>
         <mxCell id="PlTXi9dPVwTUDiqTKwLx-1062" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_DevOps.svg;fontColor=#000000;fillColor=#FFEBFA;" parent="1" vertex="1">
           <mxGeometry x="150" y="70" width="20" height="20" as="geometry" />
