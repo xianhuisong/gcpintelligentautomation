@@ -1,4 +1,4 @@
-<mxfile modified="2022-04-11T13:24:28.513Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="Ul0rO7jNm9nUaDqqCRJb" version="17.4.2" type="github">
+<mxfile modified="2022-04-11T17:22:56.034Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="7DjHlYeE9NqmH8qdfaKJ" version="17.4.2" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -70,7 +70,7 @@
           <mxGeometry x="430" y="60" width="520" height="211" as="geometry" />
         </mxCell>
         <mxCell id="PlTXi9dPVwTUDiqTKwLx-1021" value="&lt;b&gt;Google Cloud Platform&lt;/b&gt;" style="fillColor=#F6F6F6;strokeColor=none;shadow=0;gradientColor=none;fontSize=14;align=left;spacing=10;fontColor=#717171;9E9E9E;verticalAlign=top;spacingTop=-4;fontStyle=0;spacingLeft=40;html=1;container=0;" parent="NVHOe3dstHH1mAVfR4si-16" vertex="1">
-          <mxGeometry width="520" height="211" as="geometry" />
+          <mxGeometry width="500" height="211" as="geometry" />
         </mxCell>
         <mxCell id="PlTXi9dPVwTUDiqTKwLx-1022" value="" style="shape=mxgraph.gcp2.google_cloud_platform;fillColor=#F6F6F6;strokeColor=none;shadow=0;gradientColor=none;" parent="NVHOe3dstHH1mAVfR4si-16" vertex="1">
           <mxGeometry x="20" y="10" width="20" height="20" as="geometry">
@@ -159,7 +159,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NVHOe3dstHH1mAVfR4si-24" value="" style="group;fillColor=#ECCCFF;strokeColor=#E4C2FF;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="510" y="291" width="420" height="71.25" as="geometry" />
+          <mxGeometry x="560" y="298.75" width="420" height="71.25" as="geometry" />
         </mxCell>
         <mxCell id="NVHOe3dstHH1mAVfR4si-25" value="" style="fillColor=#CCCCFF;strokeColor=#E4C2FF;shadow=0;fontSize=14;align=left;spacing=10;9E9E9E;verticalAlign=top;spacingTop=-4;fontStyle=0;spacingLeft=40;html=1;container=0;gradientColor=none;" vertex="1" parent="NVHOe3dstHH1mAVfR4si-24">
           <mxGeometry width="420" height="71.25" as="geometry" />
