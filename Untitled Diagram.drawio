@@ -1,4 +1,4 @@
-<mxfile modified="2022-04-11T13:10:57.429Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="5qzC_jrIYtPOwp9AsdZa" version="17.4.2" type="github">
+<mxfile modified="2022-04-11T13:12:28.764Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="i04vclJur7ZYtHZRMrtV" version="17.4.2" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -33,12 +33,6 @@
         <mxCell id="PlTXi9dPVwTUDiqTKwLx-1088" value="&lt;font color=&quot;#ffffff&quot;&gt;2&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;fontColor=#007FFF;fillColor=#9E1FFF;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="210" y="220" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="PlTXi9dPVwTUDiqTKwLx-1071" value="&lt;font color=&quot;#ffffff&quot;&gt;3&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;fontColor=#007FFF;fillColor=#9E1FFF;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="370" y="164.56" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="PlTXi9dPVwTUDiqTKwLx-1091" value="&lt;font color=&quot;#ffffff&quot;&gt;4&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;fontColor=#007FFF;fillColor=#9E1FFF;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="360" y="310" width="20" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="PlTXi9dPVwTUDiqTKwLx-1103" value="&lt;div style=&quot;text-align: left ; font-size: 11px&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot; face=&quot;Georgia&quot;&gt;1. User upload sql scripts to Git Repos in seperated folder&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;font color=&quot;#000000&quot; style=&quot;font-size: 11px&quot; face=&quot;Georgia&quot;&gt;&lt;div style=&quot;text-align: left ; font-size: 11px&quot;&gt;2. User trigger Azure Pipelines&lt;/div&gt;&lt;div style=&quot;text-align: left ; font-size: 11px&quot;&gt;3. Azure Pipeline will upload the special folder to GCS Bucket&lt;/div&gt;&lt;div style=&quot;text-align: left ; font-size: 11px&quot;&gt;4. Once 3 is finished , pipeline will send message to PubSub&lt;/div&gt;&lt;div style=&quot;text-align: left ; font-size: 11px&quot;&gt;5. Cloud Function listens to the PubSub&lt;/div&gt;&lt;div style=&quot;text-align: left ; font-size: 11px&quot;&gt;6. Cloud Function will download the sql scripts and run one by one&lt;/div&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=12;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="21.25" y="510" width="370" height="90" as="geometry" />
         </mxCell>
@@ -62,6 +56,15 @@
         </mxCell>
         <mxCell id="PlTXi9dPVwTUDiqTKwLx-1085" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#FFFFFF;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="PlTXi9dPVwTUDiqTKwLx-1064" target="PlTXi9dPVwTUDiqTKwLx-1082" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NVHOe3dstHH1mAVfR4si-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.002;entryY=0.313;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#007FFF;" edge="1" parent="1" source="lQKMeBecdqRDSWAY5cYK-13" target="PlTXi9dPVwTUDiqTKwLx-1021">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="253" y="220" />
+              <mxPoint x="381" y="220" />
+              <mxPoint x="381" y="95" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="lQKMeBecdqRDSWAY5cYK-13" value="&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;Resource Creation&lt;/span&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;hr&gt;Terraform&lt;/font&gt;&lt;/blockquote&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="172.5" y="281.25" width="160" height="50" as="geometry" />
@@ -129,6 +132,26 @@
             <Array as="points">
               <mxPoint x="220" y="260" />
               <mxPoint x="134" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PlTXi9dPVwTUDiqTKwLx-1071" value="&lt;font color=&quot;#ffffff&quot;&gt;3&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;fontColor=#007FFF;fillColor=#9E1FFF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="370" y="164.56" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PlTXi9dPVwTUDiqTKwLx-1091" value="&lt;font color=&quot;#ffffff&quot;&gt;4&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;fontColor=#007FFF;fillColor=#9E1FFF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="380" y="240" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NVHOe3dstHH1mAVfR4si-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#007FFF;endArrow=none;" edge="1" parent="1" source="lQKMeBecdqRDSWAY5cYK-13" target="PlTXi9dPVwTUDiqTKwLx-1091">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="332.5" y="306.29999999999995" as="sourcePoint" />
+            <mxPoint x="446.51" y="183.93902439024396" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NVHOe3dstHH1mAVfR4si-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#007FFF;startArrow=none;" edge="1" parent="1" source="PlTXi9dPVwTUDiqTKwLx-1091" target="PlTXi9dPVwTUDiqTKwLx-1031">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="250" />
+              <mxPoint x="420" y="184" />
             </Array>
           </mxGeometry>
         </mxCell>
