@@ -1,4 +1,4 @@
-<mxfile modified="2022-04-12T01:35:50.330Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="cMRoJALcpmNcEL6sUOQM" version="17.4.2" type="github">
+<mxfile modified="2022-04-12T01:36:03.315Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="UMALblVpcZZ8k1wWV8Aj" version="17.4.2" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="1038" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -81,7 +81,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PlTXi9dPVwTUDiqTKwLx-1023" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" parent="NVHOe3dstHH1mAVfR4si-16" vertex="1">
-          <mxGeometry x="16.50999999999999" y="46.951219512195124" width="223.49" height="45.439390243902444" as="geometry" />
+          <mxGeometry x="16.50999999999999" y="45.56121951219512" width="223.49" height="45.439390243902444" as="geometry" />
         </mxCell>
         <mxCell id="PlTXi9dPVwTUDiqTKwLx-1024" value="&lt;font color=&quot;#000000&quot;&gt;Intelligent Automation bucket&lt;br&gt;&lt;/font&gt;&lt;hr&gt;Cloud Storage" style="sketch=0;dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_storage;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" parent="PlTXi9dPVwTUDiqTKwLx-1023" vertex="1">
           <mxGeometry y="0.5" width="44" height="39" relative="1" as="geometry">
